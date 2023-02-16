@@ -1,0 +1,10 @@
+@media (max-width: 37.5rem) {
+  .card {
+    grid-template-columns: 1fr;
+    max-width: 35rem;
+  }
+
+  .text-box {
+    gap: 2rem;
+  }
+}
